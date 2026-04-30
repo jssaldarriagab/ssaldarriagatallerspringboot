@@ -1,0 +1,5 @@
+com\saldarriaga\jssproductos\repository\ProductoRepository.class
+com\saldarriaga\jssproductos\model\Producto.class
+com\saldarriaga\jssproductos\JssProductosApplication.class
+com\saldarriaga\jssproductos\service\ProductoService.class
+com\saldarriaga\jssproductos\controller\ProductoController.class
